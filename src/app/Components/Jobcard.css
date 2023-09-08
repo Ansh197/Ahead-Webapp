@@ -1,0 +1,55 @@
+.jobcard {
+    border-radius:10px ;
+    width:20rem;
+    height: 10rem;
+    margin-right: 16px;
+    padding: 16px;
+    border-radius: 10px;
+    background-color: #fcfce8;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: hidden;
+    margin-bottom: 5rem;
+  }
+
+  .jobcard:hover{
+    transition-duration: 1s;
+    border-radius:10px ;
+    width:20rem;
+    height: 13rem;
+    margin-right: 16px;
+    padding: 16px;
+    border-radius: 10px;
+    background-color: #fcfce8;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: hidden;
+  }
+
+  .jobcard h3 {
+    margin-top: 16px;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+  
+  .jobcard p {
+    font-size: 1rem;
+  }
+
+  .jobcontainer{
+    display: flex;
+    flex-direction: row;
+    width: 60rem;
+    margin:auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    overflow-x: hidden;
+  }
+
+  .jobcardbtn{
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-top: 1.8rem ;
+
+  }

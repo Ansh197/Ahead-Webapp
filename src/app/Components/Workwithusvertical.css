@@ -1,0 +1,27 @@
+.wwucard {
+    border-radius:10px ;
+    width:18rem;
+    height: 10rem;
+    border: 1px solid #ddd;
+    padding: 16px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .wwucard h3 {
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  
+  .wwucard p {
+    font-size: 14px;
+  }
+  
+  .wwuswiper-fixed-width-100 {
+    width: 60rem;
+  }
+
+  .swiper-wrapper{
+    transition-timing-function: linear;
+  }

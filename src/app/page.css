@@ -1,0 +1,180 @@
+.mainpage
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+.subheading{
+    position: absolute;
+    left: 19.2rem;
+    top: 15.8rem;
+    font-size: 16px;
+    display: block;
+    position: absolute;
+}
+.heading-cont{
+    
+    width: 30%;
+    color: black;
+    position: absolute;
+    left: 19rem;
+    top: 17rem;
+    font-weight: 650;
+    display: block;
+    font-size: 50px;
+}
+
+.secondpage{
+    position: relative;
+    bottom: 8rem;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+.subheading2{
+    position: relative;
+    left: 19.2rem;
+    top: 13rem;
+    font-size: 16px;
+    z-index: 1;
+    display: block;
+}
+
+.heading-cont2{
+    width: 50%;
+    color: black;
+    position: relative;
+    left: 19rem;
+    top: 13rem;
+    font-weight: 650;
+    display: block;
+    font-size: 50px;
+    z-index: 1;
+}
+
+.description{
+    width : 25%;
+    position: relative;
+    top: 18rem;
+    left: 50rem;
+    font-size: 16px;
+    display: block;
+    z-index: 1;
+}
+
+.jobheading{
+    font-size: 42px;
+    font-weight: 650;
+    text-align: left;
+    margin: auto;
+    width: 60rem;
+}
+
+.thirdpage{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+.tpsubhead{
+    position: relative;
+    top: 12rem;
+    margin: auto;
+    text-align: center;
+    width: 60rem;
+}
+
+.tphead{
+    position: relative;
+    top: 12rem;
+    font-size: 38px;
+    font-weight: 650;
+    margin: auto;
+    text-align: center;
+    width: 60rem;
+}
+
+.tpcontainer{
+    position: relative;
+    top: 19rem;
+    display: flex;
+    flex-direction: row;
+    width: 60rem;
+    margin: auto;
+    justify-content: space-evenly;
+    text-align: center
+}
+
+.tpcontcon{
+    font-size: 15px;
+    width: 30%;
+    display: block;
+}
+
+.pbcontainer1{
+    position: relative;
+    bottom: 14rem;
+    width: 41rem;
+    height:2.2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    gap: 19rem;
+    margin : auto ;
+}
+
+.pbp1
+{
+    display: block;
+    background-color: rgb(92, 77, 228);
+    border-radius: 8px;
+    padding: 4px 20px;
+    color: white;
+    text-align: center;
+}
+
+.pbp2{
+    display: block;
+    background-color: goldenrod;
+    border-radius: 8px;
+    padding: 5px 20px;
+    color: white;
+    text-align: center;
+}
+
+.pbcontainer2{
+    position: relative;
+    bottom: 11.5rem;
+    width: 48rem;
+    height:2.2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    gap: 16rem;
+    margin : auto ;
+}
+
+.pbp3
+{
+    display: block;
+    background-color: rgb(56, 199, 247);
+    border-radius: 8px;
+    padding: 4px 20px;
+    color: white;
+    text-align: center;
+}
+
+.pbp4{
+    display: block;
+    background-color: rgb(68, 175, 68);
+    border-radius: 8px;
+    padding: 5px 20px;
+    color: white;
+    text-align: center;
+}

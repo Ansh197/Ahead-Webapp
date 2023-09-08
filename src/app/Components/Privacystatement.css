@@ -1,0 +1,42 @@
+.pscontainer{
+    width: 60rem;
+    height:30rem;
+    gap:3px;
+    padding: 10rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin : auto ;
+}
+
+.ps1
+{
+    font-weight: 650;
+}
+
+.ps2{
+    font-size: 28px;
+    font-weight: 650;
+}
+
+.psimg{
+    width: 45%;
+    margin: auto;
+}
+
+.psbtn{
+    background-color: black;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 60px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.ps4{
+    margin-top: 12px;
+}

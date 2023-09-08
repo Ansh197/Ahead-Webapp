@@ -1,0 +1,22 @@
+.flex-container{
+display: flex;
+margin:auto ;
+flex-direction: row;
+justify-content: space-evenly;
+width : 65%;
+height: 50%;
+/* border: 1px solid black; */
+margin-top: 5rem;
+margin-bottom: 5rem;
+}
+.heading 
+{
+    font-size: 28px;
+    font-weight: bolder;
+    width: 28%;
+    display: block;
+}
+.content {
+    width: 28%;
+    display: block;
+}

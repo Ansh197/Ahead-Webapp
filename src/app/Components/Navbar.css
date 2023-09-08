@@ -1,0 +1,37 @@
+
+.navbar {
+    padding: 1rem 8rem;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .logoContainer {
+    margin-right: 8rem;
+  }
+  
+  .logo {
+    width: 60px; 
+    height: auto; 
+  }
+  
+  .navList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navItem {
+    margin: 0 1rem;
+  }
+  
+  .navItem a {
+    text-decoration: none;
+    line-height: 70px;
+  }
+  
+  .navItem a:hover {
+    text-decoration: underline;
+  }
+  

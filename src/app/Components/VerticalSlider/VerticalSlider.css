@@ -1,0 +1,30 @@
+/* .verticalslidercard{
+    width: 50rem;
+    height: 10rem;
+} */
+
+.verticalslidercard {
+    border-radius:10px ;
+    width: 40rem;
+    height: 8rem;
+    padding: 16px;
+  }
+  
+  .verticalslidercard h3 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .verticalslidercard p {
+    font-size: 16px;
+  }
+
+
+  .verticalswiperdiv{
+    display: flex;
+    justify-content: center;
+    height: 30rem;
+    width: 60rem;
+    margin: auto;
+    padding-bottom: 4rem;
+  }
