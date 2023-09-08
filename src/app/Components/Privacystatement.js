@@ -19,7 +19,7 @@ import 'aos/dist/aos.css';
      data-aos-duration='500' data-aos-delay='300'>Before you get started</div>
     <div className='ps3' data-aos="fade-up"
      data-aos-easing="ease-out"
-     data-aos-duration='500' data-aos-delay='300'>We don't share your answers with anyone and won't ever tell <br/> you which friends said what about you</div>
+     data-aos-duration='500' data-aos-delay='300'>{`We don't share your answers with anyone and won't ever tell `}<br/> you which friends said what about you</div>
     <Image src={sign} alt='sign' className='psimg' />
     <a>
     <button className='psbtn'  data-aos="fade-up"

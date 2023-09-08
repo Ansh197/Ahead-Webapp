@@ -13,7 +13,7 @@ export default function Sliderheading() {
     <div className='sliderheadingcont'>
         <p className='subhead' data-aos="fade-right"
      data-aos-easing="ease-out"
-     data-aos-duration='700' data-aos-delay='300'>Wrong with self-improvement & how we're fixing it</p>
+     data-aos-duration='700' data-aos-delay='300'>{`Wrong with self-improvement & how we're fixing it`}</p>
         <div className='slidermainheadcont'>
         <p className='mainhead' data-aos="fade-right"
      data-aos-easing="ease-out"

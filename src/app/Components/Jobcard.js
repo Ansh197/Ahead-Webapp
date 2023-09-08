@@ -4,8 +4,8 @@ import './Jobcard.css'
 const Jobcard = (props) => {
   return (
     <div className="jobcontainer">
-    {props.jobcard.map((jobs) => (
-        <div className="jobcard">
+    {props.jobcard.map((jobs,index) => (
+        <div className="jobcard" key={index}>
         <h3>{jobs.title}</h3>
         <p>{jobs.tyoe}</p>
         <p>{jobs.location}</p>
